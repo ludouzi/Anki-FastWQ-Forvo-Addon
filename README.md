@@ -1,2 +1,7 @@
 # Anki-FastWQ-Forvo-Addon
 Extends the Fast Word Query addon for Anki by implementing support for automatic audio downloads from Forvo.com.
+
+Credit to @sth2018 for the original addon (https://github.com/sth2018/FastWordQuery)
+
+# Install
+Place the forvo.py file in the service\dict folder of the original plugin
